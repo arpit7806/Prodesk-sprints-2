@@ -7,7 +7,8 @@
 
 ## 📸 Preview
 
-![Spendly App Screenshot](./screenshot.png)
+<img width="1887" height="1085" alt="Screenshot 2026-06-20 145109" src="https://github.com/user-attachments/assets/1a054cea-e8c6-4b09-8a26-d6de6ca84c34" />
+
 
 ---
 
