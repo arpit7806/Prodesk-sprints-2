@@ -3,11 +3,13 @@
 > **"Your money, your rules."**
 > A real-time personal budget tracker built with Vanilla JavaScript, Chart.js and localStorage. No frameworks, no fluff.
 
+🔗 **Live Demo:** [prodesk-sprints-2.vercel.app](https://prodesk-sprints-2.vercel.app/)
+
 ---
 
 ## 📸 Preview
 
-<img width="1887" height="1085" alt="Screenshot 2026-06-20 145109" src="https://github.com/user-attachments/assets/1a054cea-e8c6-4b09-8a26-d6de6ca84c34" />
+<img width="1887" height="1085" alt="Screenshot 2026-06-20 145109" src="https://github.com/user-attachments/assets/1ff0f76c-bf8a-4513-936f-dba1cdda1c92" />
 
 
 ---
@@ -46,35 +48,6 @@ Built across **2 sprint phases** as part of a frontend internship program.
 
 ---
 
-## 📁 Project Structure
-
-```
-spendly/
-├── index.html      # Markup — zero inline styles
-├── style.css       # All styles, fully modular & class-based
-├── script.js       # Canvas animation + tracker logic + chart
-├── screenshot.png  # App preview
-└── README.md
-```
-
----
-
-## ⚙️ Setup
-
-No build tools, no npm — just open and run.
-
-```bash
-git clone https://github.com/arpit7806/spendly.git
-```
-
-Then either:
-- **Double-click** `index.html` to open in browser, or
-- Use **VS Code Live Server** → right-click `index.html` → Open with Live Server
-
-> All three files must stay in the **same folder**.
-
----
-
 ## 🧠 localStorage Flow
 
 ```
@@ -102,10 +75,6 @@ On page load, `init()` reads from localStorage and rebuilds the full UI from sav
 
 ## 👨‍💻 Author
 
+**Arpit** — [github.com/arpit7806](https://github.com/arpit7806)
+
 Built during a frontend internship sprint.
-
----
-
-## 📄 License
-
-[MIT](LICENSE)
